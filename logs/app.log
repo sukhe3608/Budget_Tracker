@@ -1,0 +1,11 @@
+2025-12-04 12:28:22,587 - INFO - Failed to add income: Transaction.__init__() missing 1 required positional argument: 't_type'
+2025-12-04 12:28:36,978 - INFO - Failed to add expense: Transaction.__init__() missing 1 required positional argument: 't_type'
+2025-12-04 12:29:04,008 - INFO - CSV exported: budget_summary_2025-12.csv
+2025-12-04 12:31:33,541 - INFO - Failed to add income: Transaction.__init__() missing 1 required positional argument: 't_type'
+2025-12-04 12:34:15,007 - INFO - Failed to add income: Transaction.__init__() missing 1 required positional argument: 't_type'
+2025-12-04 12:36:53,709 - INFO - Failed to add income: 'income'
+2025-12-04 12:39:00,410 - INFO - Failed to add income: 'income'
+2025-12-04 12:40:31,205 - INFO - Failed to add expense: 'expenses'
+2025-12-04 12:41:53,811 - INFO - Income added: 25000.0 in category income
+2025-12-04 12:42:14,766 - INFO - Expense added: 1000.0 in category grocery
+2025-12-04 12:42:36,600 - INFO - CSV exported: budget_summary_2025-12.csv
